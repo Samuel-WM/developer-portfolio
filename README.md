@@ -165,7 +165,7 @@ Whenever you push changes to your GitHub repo, Vercel will automatically redeplo
 1. **Sign up or log in** to [Netlify](https://www.netlify.com/).
 2. In the **Netlify Dashboard**, click **"New site from Git"**.
 3. Connect your **GitHub** account and select your repo.
-4. Configure your environment variables by going to **Site Settings > Build & Deploy > Environment** and adding keys from your `.env` file.
+4. Configure your environment variables by going to **Site Settings > Build & Deploy > nvironment** and adding keys from your `.env` file.
 5. Click **Deploy Site**. Netlify will build and deploy your portfolio.
 
 ---
