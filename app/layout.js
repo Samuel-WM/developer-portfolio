@@ -10,7 +10,7 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Samuel Wales-McGrath - Software Developer",
+  title: "Samuel Wales-McGrath",
   description:
     "This is the portfolio of Samuel Wales-McGrath. I am a computer science student and developer with expertise in full-stack development, computer vision, and AI for autonomous systems. I thrive on solving complex problems, learning new technologies, and collaborating on innovative projects that bridge research and real-world applications."
 ,
