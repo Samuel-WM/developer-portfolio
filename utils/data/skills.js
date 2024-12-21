@@ -12,10 +12,10 @@ export const skillsData = [
   'Django',
   'MongoDB',
   'Tailwind',
-  'MySQL',
   'PostgreSQL',
   'AWS',
   'Pytorch',
+  'Tensorflow',
   'OpenCV',
   'Numpy'
 ];
