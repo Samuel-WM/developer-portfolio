@@ -23,7 +23,7 @@ function ContactForm() {
 
   const handleSendMail = async (e) => {
     e.preventDefault();
-
+  
     if (!userInput.email || !userInput.message || !userInput.name) {
       setError({ ...error, required: true });
       return;
@@ -31,15 +31,12 @@ function ContactForm() {
       return;
     } else {
       setError({ ...error, required: false });
-    };
-
+    }
+  
     try {
       setIsLoading(true);
-      const res = await axios.post(
-        `${process.env.NEXT_PUBLIC_APP_URL}/api/contact`,
-        userInput
-      );
-
+      const res = await axios.post('/api/contact', userInput); // Remove the template literal and env variable
+      
       toast.success("Message sent successfully!");
       setUserInput({
         name: "",
@@ -50,9 +47,9 @@ function ContactForm() {
       toast.error(error?.response?.data?.message);
     } finally {
       setIsLoading(false);
-    };
+    }
   };
-
+  
   return (
     <div>
       <p className="font-medium mb-5 text-[#16f2b3] text-xl uppercase">Contact with me</p>
