@@ -8,6 +8,8 @@ export const projectsData = [
         code: 'https://github.com/Samuel-WM/soccer_form_analysis_ai_components',
         demo: '',
     },
+    
+    
     {
         id: 2,
         name: 'Full-Stack Rehabilitation Tracker',
@@ -17,6 +19,8 @@ export const projectsData = [
         code: 'https://github.com/Samuel-WM/carecalender',
         demo: '',
     },
+    
+    
     {
         id: 3,
         name: 'Audio Transcription and Translation Website',
@@ -26,6 +30,8 @@ export const projectsData = [
         code: 'https://github.com/Samuel-WM/ai_translation_webapp',
         demo: '',
     },
+    
+    
     {
         id: 4,
         name: 'Sign Language Recognition Model',
@@ -35,6 +41,8 @@ export const projectsData = [
         code: 'https://github.com/Samuel-WM/sign-language-detection-demo',
         demo: '',
     },
+    
+    
     {
         id: 5,
         name: 'Astronomy Picture of the Day Website',
