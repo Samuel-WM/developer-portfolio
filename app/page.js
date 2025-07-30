@@ -31,7 +31,6 @@ export default async function Home() {
       <HeroSection />
       <AboutSection />
       <Experience />
-      <Research />
       <Skills />     
       <Projects />
       <Education />

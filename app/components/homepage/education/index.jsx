@@ -43,9 +43,7 @@ function Education() {
                     className="absolute bottom-0 opacity-80"
                   />
                   <div>
-                    <p className="text-xs sm:text-sm text-[#16f2b3]">
-                      {education.duration}
-                    </p>
+
                   </div>
                   <div className="flex flex-col items-center gap-y-4 px-3 py-5">
                     <div className="text-violet-500 transition-all duration-300 hover:scale-125">
