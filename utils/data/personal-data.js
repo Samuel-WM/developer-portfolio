@@ -2,7 +2,7 @@ export const personalData = {
   name: "Samuel Wales-McGrath",
   profile: '/profile.png',
   designation: "Student",
-  description: "I’m an Honors Computer Science & Engineering student at The Ohio State University with a focus on applying machine learning and software engineering to real-world challenges in medicine, industry, and startups. My work spans deep learning research, full-stack development, and early-stage product development. I’m passionate about building impactful technology—whether through scientific research, scalable infrastructure, or entrepreneurial ventures, and I’m always looking to collaborate on high-leverage projects at the intersection of CS, health, and innovation.",
+  description: "I’m an Honors Computer Science & Engineering student at The Ohio State University, focused on applying machine learning and software engineering to challenges in medicine, industry, and startups. My work spans computational pathology research, full-stack development, and early-stage product design. I’m passionate about building impactful technology through research, scalable systems, and entrepreneurial projects, and I’m always looking to collaborate on high-impact work at the intersection of CS and health.",
   email: 'samuelwalesmcgrath@gmail.com',
   phone: '+3308880610',
   address: '3072 Abrams Drive ',
