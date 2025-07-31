@@ -5,11 +5,10 @@ export const experiences = [
     id: 1,
     title: 'Research Assistant – AI4Path Lab',
     company: 'The Ohio State University',
-    duration: 'Aug 2025 – Present',
+    duration: 'Jul 2025 – Present',
     location: 'Columbus, OH',
     description: [
-      'Conducting research in explainable AI and quality control for spatial omics imaging.',
-      'Assisting in developing machine learning models and clinician-facing outputs for digital pathology.'
+
     ]
   },
 
